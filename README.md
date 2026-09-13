@@ -8,9 +8,9 @@ The analysis examines whether information associated with different autobiograph
 
 This analysis contains:
 
-ROI masks creation for contrast- and conjunction maps 
-Within-task multiclass classification using linear support vector machines & ROC AUC estimation
-Cross-task classification between autobiographical memory and picture description tasks ( AB, PD tasks)
-Groupwise cross-validation
-Permutation analysis
+1. ROI masks creation for contrast- and conjunction maps 
+2. Within-task multiclass classification using linear support vector machines & ROC AUC estimation
+3. Cross-task classification between autobiographical memory and picture description tasks ( AB, PD tasks)
+4. Groupwise cross-validation
+5. Permutation analysis
 
